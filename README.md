@@ -21,3 +21,9 @@ You need PyQt6 to run this project
 ```bash
   python main.py
   ```
+
+
+## Demo
+
+![App Screenshot](https://raw.githubusercontent.com/mateuszcer/crabtext/main/resources/demo.png)
+
