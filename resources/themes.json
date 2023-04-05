@@ -1,0 +1,18 @@
+{
+    "name": "One Dark Pro",
+    "type": "dark",
+    "backgroundColor": "#282c34",
+    "secondaryBackgroundColor": "#21252B",
+    "semanticTokenColors": {
+        "python.default": "#ABB2BF",
+        "python.funcName": "#61AFEF",
+        "python.keyword": "#c678dd",
+        "python.string": "#98c379",
+        "python.comment": "#6b6e75",
+        "python.bracket": "#ABB2BF",
+        "python.classname": "#e5c07b",
+        "python.number": "#F2A777",
+        "python.multiLineComment": "98c379",
+        "python.decorator": "#fffa83"
+    } 
+  }
